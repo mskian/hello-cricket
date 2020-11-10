@@ -5,7 +5,7 @@
 * Description: Simple Plugin to Display Live Cricket Score on your Wordpress site.
 * Version: 1.0
 * Author: Santhosh veer
-* Author URI: https://github.com/mskian/hello-cricket
+* Author URI: https://sanweb.info/
 * License: GPLv3
 * License URI: http://www.gnu.org/licenses/gpl.html
 */
